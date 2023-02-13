@@ -6,4 +6,4 @@ b=input("b: ")
 c=(int(a))+(int(b))
 
 #Imprimimos
-print("Resultado ", c)
+
